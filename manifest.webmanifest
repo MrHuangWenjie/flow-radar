@@ -1,0 +1,12 @@
+{
+  "name": "Flow Radar · 美股资金雷达",
+  "short_name": "资金雷达",
+  "description": "两层美股观测：ETF收盘净申赎与盘中ETF量价活跃度",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080e19",
+  "theme_color": "#0b1423",
+  "lang": "zh-CN",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
